@@ -52,18 +52,4 @@ Generated Podcast Audio
 
 Add a screenshot of the n8n workflow here.
 
-## ⚙️ Setup
-
-1. Import `AI-Podcast-Generator.json` into n8n.
-2. Configure Google Gemini credentials.
-3. Configure Murf AI credentials.
-4. Activate/configure the chat trigger.
-5. Execute the workflow.
-
-## 🔐 Security
-
-API keys and credentials are not included in this repository.
-
-## 👩‍💻 Author
-
-Harshitha D Bangera
+![AI Podcast Generator Workflow](screenshots/workflow.png)
