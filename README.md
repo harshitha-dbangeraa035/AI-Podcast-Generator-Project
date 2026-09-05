@@ -50,4 +50,4 @@ Generated Podcast Audio
 
 ## 📸 Workflow Screenshot
 
-
+![AI Podcast Generator Workflow](Workflow.png)
