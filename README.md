@@ -25,19 +25,13 @@ The workflow:
 
 ## 🔄 Workflow
 
-User Input
-↓
-When Chat Message Received
-↓
-Podcast Script Generator
-↓
-Google Gemini Chat Model
-↓
-Murf AI
-↓
-Podcast Downloader
-↓
-Generated Podcast Audio
+1. **User Input**
+2. **When Chat Message Received**
+3. **Podcast Script Generator**
+4. **Google Gemini Chat Model**
+5. **Murf AI**
+6. **Podcast Downloader**
+7. **Generated Podcast Audio**
 
 ## ✨ Features
 
