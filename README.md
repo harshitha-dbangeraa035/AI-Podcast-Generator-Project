@@ -52,4 +52,4 @@ Generated Podcast Audio
 
 Add a screenshot of the n8n workflow here.
 
-![AI Podcast Generator Workflow](screenshots/workflow.png)
+![AI Podcast Generator Workflow](workflow.png)
